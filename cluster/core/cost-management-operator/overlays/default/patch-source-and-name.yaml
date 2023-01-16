@@ -1,0 +1,6 @@
+- op: replace
+  path: /spec/source/name
+  value: dcoronel
+- op: replace
+  path: /metadata/name
+  value: dcoronel-cluster
